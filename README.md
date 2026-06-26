@@ -1,1 +1,8 @@
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/aba7e7b8-e2aa-4201-8818-cfddfe5fbcc8" align="left" hspace="25"/>
+
+
+
+<div align="center">
+  
 <img width="30" height="30" alt="" src="https://64.media.tumblr.com/587c2b50b01df9b7f00b54537c686bdd/746a62fe45a7f661-9f/s2048x3072/2c9fd56d701517aa7e276026709f3efb96050a04.pnj"/> $\color{#571e12}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [lurkme](https://scout.lurk.me) $\color{#571e12}{\textsf{︶}}\qquad$ [main](https://github.com/BLUSC0UT) $\color{#571e12}{\textsf{︶}}\qquad$ [other alt](https://github.com/jjerma985)
